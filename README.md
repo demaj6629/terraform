@@ -13,4 +13,4 @@ Create an Ec2 instance on a custom vpc and applying a public address so that we 
 # Create a security group ( allow for https port-443, http port -80 and SSH port - 22
 # create a network interface(Private)
 # Create elastic IP
-# Create an ubuntu Server and add a network interface
+# Install an ubuntu Server and add a network interface
